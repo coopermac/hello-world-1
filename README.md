@@ -1,6 +1,10 @@
 # hello-world
 
-Hi Humans!
+Hi Earthlings!!!
+I am the Godly Minich!
+The best computer techer in ALL the land!
 
-Minich here, I like Java and Python.
-I've had tacos on the moon and find them far superior to Earth tacos.
+I, Minich, like Java, Python and c++.
+I've have protien powder made out of the dust of the moon and find it far superior to Earth protien powder!
+May your code never be buggy!
+,Minich
